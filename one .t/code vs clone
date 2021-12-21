@@ -1,0 +1,7 @@
+git inti
+git add
+git sataus
+git commit-m your message
+git remote add origin your url name
+git push -origin master
+gir add remote add origin
